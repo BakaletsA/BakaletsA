@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BakaletsA
+- 👀 I’m interested in CODE
+- Python, C++, C#
